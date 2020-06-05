@@ -1,3 +1,6 @@
+# ARCHIVED: This Repository isn't in use anymore
+Planet has been moved to Netlify
+
 # Summary
 
 This Docker container is used to build the planet.mozilla.org website content.
